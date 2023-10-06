@@ -41,3 +41,6 @@ VS code, Github, Textbook: The Pandas Workshop: A comprehensive guide to using P
 
 Summary Statement:
 In summary, my competencies in Data Analytics encompass statistical analysis, data visualization, tool proficiency, and statistical knowledge. I have successfully applied these skills in both academic and practical projects. I am enthusiastic about addressing my identified weaknesses and exploring areas I wish to know more about.
+
+![Alt text](image-2.png)
+![Alt text](image-3.png)
