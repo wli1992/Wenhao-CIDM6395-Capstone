@@ -60,7 +60,7 @@ What I Know (Strengths):
     Data Quality: I understand the importance of data quality and have used data profiling and cleansing techniques to ensure data accuracy.
 
 Where I'm Weak (Weaknesses):
-     NoSQL Databases: I have limited experience with NoSQL databases like MongoDB, Cassandra, or Redis. I need to strengthen my knowledge in this area, as NoSQL databases are becoming increasingly popular for handling unstructured data.
+    NoSQL Databases: I have limited experience with NoSQL databases like MongoDB, Cassandra, or Redis. I need to strengthen my knowledge in this area, as NoSQL databases are becoming increasingly popular for handling unstructured data.
 
     Big Data Technologies: I lack expertise in big data technologies like Hadoop, Spark, and distributed data processing. In the era of big data, it's crucial to have skills in handling large datasets and leveraging these technologies for data analysis.
 
@@ -80,7 +80,7 @@ What I Wish I Knew:
 Source of knowledge: Python, Google Colab, exercises from textbook: Data management: Databases and Organizations, Datacamp
 
 Summary Statement:
-     In summary, I have a strong foundation in Data Management, including data modeling, SQL, and database management. However, I recognize the need to strengthen my knowledge in areas such as NoSQL databases, big data technologies, advanced data analytics, and data security. I'm eager to continue learning and integrating these skills into my portfolio and capstone project, where effective Data Management will be essential for success.
+    In summary, I have a strong foundation in Data Management, including data modeling, SQL, and database management. However, I recognize the need to strengthen my knowledge in areas such as NoSQL databases, big data technologies, advanced data analytics, and data security. I'm eager to continue learning and integrating these skills into my portfolio and capstone project, where effective Data Management will be essential for success.
 
 Support: Samples of work
    
