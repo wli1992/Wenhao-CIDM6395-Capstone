@@ -44,3 +44,46 @@ In summary, my competencies in Data Analytics encompass statistical analysis, da
 
 ![Alt text](image.png)
 ![Alt text](image-1.png)
+
+
+Assessing Data Management
+
+What I Know (Strengths):
+    Data Modeling: I have a strong understanding of data modeling techniques and have worked with various tools to design efficient and structured databases. I can create Entity-Relationship Diagrams (ERDs) and understand the importance of normalization in database design.
+
+    SQL: I am proficient in SQL (Structured Query Language) and can write complex queries to retrieve, manipulate, and manage data in relational databases. I'm confident in using SQL for data retrieval and data modification tasks.
+
+    Database Management Systems: I have hands-on experience with different Database Management Systems (DBMS) like MySQL, PostgreSQL, and SQLite. I can set up and manage databases, as well as optimize their performance.
+
+    Data Warehousing: I have a basic understanding of data warehousing concepts, including ETL (Extract, Transform, and Load) processes, data warehouses, and data marts.
+
+    Data Quality: I understand the importance of data quality and have used data profiling and cleansing techniques to ensure data accuracy.
+
+Where I'm Weak (Weaknesses):
+     NoSQL Databases: I have limited experience with NoSQL databases like MongoDB, Cassandra, or Redis. I need to strengthen my knowledge in this area, as NoSQL databases are becoming increasingly popular for handling unstructured data.
+
+    Big Data Technologies: I lack expertise in big data technologies like Hadoop, Spark, and distributed data processing. In the era of big data, it's crucial to have skills in handling large datasets and leveraging these technologies for data analysis.
+
+    Advanced Data Analytics: While I have a solid foundation in data analytics, I'm less proficient in advanced data analysis techniques, machine learning, and predictive modeling. I wish to enhance my skills in these areas to work on more complex analytics projects.
+
+    Data Security: My knowledge of data security and privacy is basic. I need to delve deeper into data encryption, access control, and compliance with data protection regulations.
+
+What I Wish I Knew:
+    Advanced Machine Learning: I wish I had a deeper understanding of advanced machine learning algorithms, neural networks, and deep learning. These are powerful tools for predictive analytics and AI applications.
+
+    Data Governance: I'd like to explore data governance practices and strategies to ensure data quality, compliance, and responsible data management within organizations.
+
+    Real-time Data Processing: More hands-on experience with real-time data processing and stream processing frameworks like Apache Kafka would be valuable in today's fast-paced data environments.
+
+    Data Ethics and Privacy: In an era of increasing data privacy concerns, I wish to have a comprehensive grasp of data ethics and privacy regulations like GDPR.
+
+Source of knowledge: Python, Google Colab, exercises from textbook: Data management: Databases and Organizations, Datacamp
+
+Summary Statement:
+     In summary, I have a strong foundation in Data Management, including data modeling, SQL, and database management. However, I recognize the need to strengthen my knowledge in areas such as NoSQL databases, big data technologies, advanced data analytics, and data security. I'm eager to continue learning and integrating these skills into my portfolio and capstone project, where effective Data Management will be essential for success.
+
+Support: Samples of work
+   
+![Alt text](image-3.png)
+![Alt text](image-4.png)
+![Alt text](image-5.png)
