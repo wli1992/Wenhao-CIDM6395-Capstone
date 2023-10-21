@@ -91,3 +91,54 @@ Support: Samples of work
 ![Alt text](image-3.png)
 ![Alt text](image-4.png)
 ![Alt text](image-5.png)
+![Alt text](image-8.png)
+![Alt text](image-9.png)
+
+
+Assessing Software Systems
+
+What Do You Know
+
+In my Software and Systems coursework, I've gained competencies in various areas:
+•	Proficient in programming languages like Python, HTML, CSS with the ability to develop software applications and scripts.
+•	Skilled in system architecture design and implementation, demonstrated in a group project where I designed the architecture for a web-based application.
+•	Proficiency in database management, including SQL and NoSQL databases, with an example of a database project where I optimized query performance.
+•	Experience in version control systems like Git, evident from my active contribution to a team project on GitHub.
+
+Where Are You Weak
+
+While I am confident in the areas mentioned above, I acknowledge some weaknesses:
+•	Limited exposure to real-time systems and embedded programming.
+•	Need to enhance my knowledge of cybersecurity practices and secure coding principles.
+•	Need to have knowledge of software development methodologies, including Agile and Scrum.
+
+What Do You Wish You Knew
+
+I wish to have a deeper understanding of DevOps practices and tools, as I recognize the importance of continuous integration and continuous deployment (CI/CD) in modern software development. Additionally, I believe I may be missing insights into microservices architecture and containerization technologies like Docker and Kubernetes.
+
+Samples of Work
+
+https://github.com/wtamucis/assignment-python-chapter-3-wli1992
+https://github.com/wtamucis/assignment-python-chapter-4-wli1992
+https://github.com/wtamucis/assignment-python-chapter-5-wli1992
+https://github.com/wtamucis/assignment-python-chapter-6-wli1992
+https://github.com/wtamucis/assignment-python-chapter-7-wli1992
+https://github.com/wtamucis/assignment-python-chapter-8-wli1992
+https://github.com/wtamucis/assignment-python-chapter-9-wli1992
+https://github.com/wtamucis/assignment-python-chapter-10-wli1992
+https://github.com/wtamucis/assignment-python-chapter-11-wli1992
+![Alt text](image-6.png)
+![Alt text](image-7.png)
+![Alt text](image-8.png)
+![Alt text](image-9.png)
+
+Sources of knowledge
+Mosh's Python Mastery ebook, Datacamp.com, VS code, HTML tutorial, Github.com
+
+Summary Statement
+
+In summary, I am confident in my software development and system architecture skills. However, I acknowledge the need to improve my knowledge in cybersecurity, DevOps, and cloud computing. I am well-prepared to apply my current skills to the Capstone project and beyond.
+
+Contribution Towards the Capstone
+
+The knowledge and skills I've acquired in Software and Systems are integratable with the other areas in the Capstone project. For example, my strong programming skills can contribute to data analysis tasks, and my system architecture experience is valuable for designing robust data management solutions. I look forward to bringing these competencies to the Capstone to create a comprehensive and effective solution.
